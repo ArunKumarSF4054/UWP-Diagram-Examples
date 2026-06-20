@@ -1,5 +1,5 @@
 # Flow chart creation sample
-This sample demonstrate how to create a simple flow chart using SfDiagram.
+This sample demonstrate how to create a simple flow chart using SfDiagram. Explore more details about the UWP Diagram control refer to the following URL : [UWP Diagram](https://www.syncfusion.com/uwp-ui-controls/diagram)
 
 __*Documentation*__:https://help.syncfusion.com/uwp/diagram/getting-started
 

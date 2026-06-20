@@ -1,5 +1,5 @@
 # Data source settings sample
-This sample demonstrate how to create a SfDiagram layout using Datasource seetings.
+This sample demonstrate how to create a SfDiagram layout using Datasource seetings. Explore more details about the UWP Diagram control refer to the following URL : [UWP Diagram](https://www.syncfusion.com/uwp-ui-controls/diagram)
 
 __*Documentation*__:https://help.syncfusion.com/uwp/diagram/datasource
 

@@ -1,7 +1,7 @@
 # UWP Diagram Examples
 
 ## Repository Description
-A comprehensive collection of sample applications demonstrating the complete capabilities of the Diagram control for Universal Windows Platform (UWP) development, including shape creation, connectors, layouts, styling, data binding, and advanced interactive features.
+A comprehensive collection of sample applications demonstrating the complete capabilities of the Diagram control for Universal Windows Platform (UWP) development, including shape creation, connectors, layouts, styling, data binding, and advanced interactive features. Explore more details about the UWP Diagram control refer to the following URL : [UWP Diagram](https://www.syncfusion.com/uwp-ui-controls/diagram)
 
 ## Overview
 This repository provides practical, working examples designed to help developers integrate powerful diagramming capabilities into their UWP applications. Whether you are building flowcharts, or custom visual solutions, these samples demonstrate how to leverage the Diagram control effectively. Each example focuses on specific features and best practices, making it easy to understand and implement diagramming functionality in your own UWP projects.
